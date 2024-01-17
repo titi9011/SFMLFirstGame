@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SFMLFirstGame\Animation.cpp;C:\Users\User\source\repos\SFMLFirstGame\x64\Debug\Animation.obj
+C:\Users\User\source\repos\SFMLFirstGame\CollisionManager.cpp;C:\Users\User\source\repos\SFMLFirstGame\x64\Debug\CollisionManager.obj
+C:\Users\User\source\repos\SFMLFirstGame\Environment.cpp;C:\Users\User\source\repos\SFMLFirstGame\x64\Debug\Environment.obj
+C:\Users\User\source\repos\SFMLFirstGame\GameObject.cpp;C:\Users\User\source\repos\SFMLFirstGame\x64\Debug\GameObject.obj
+C:\Users\User\source\repos\SFMLFirstGame\Hero.cpp;C:\Users\User\source\repos\SFMLFirstGame\x64\Debug\Hero.obj
+C:\Users\User\source\repos\SFMLFirstGame\IdleState.cpp;C:\Users\User\source\repos\SFMLFirstGame\x64\Debug\IdleState.obj
+C:\Users\User\source\repos\SFMLFirstGame\JumpState.cpp;C:\Users\User\source\repos\SFMLFirstGame\x64\Debug\JumpState.obj
+C:\Users\User\source\repos\SFMLFirstGame\main.cpp;C:\Users\User\source\repos\SFMLFirstGame\x64\Debug\main.obj
+C:\Users\User\source\repos\SFMLFirstGame\RunState.cpp;C:\Users\User\source\repos\SFMLFirstGame\x64\Debug\RunState.obj
+C:\Users\User\source\repos\SFMLFirstGame\SceneObjects.cpp;C:\Users\User\source\repos\SFMLFirstGame\x64\Debug\SceneObjects.obj
+C:\Users\User\source\repos\SFMLFirstGame\State.cpp;C:\Users\User\source\repos\SFMLFirstGame\x64\Debug\State.obj

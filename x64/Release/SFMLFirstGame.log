@@ -1,0 +1,60 @@
+﻿  AnimationState.cpp
+  GameObject.cpp
+C:\Users\User\source\repos\SFMLFirstGame\State.h(10,21): error C2061: syntax error: identifier 'GameObject'
+  (compiling source file 'GameObject.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\State.h(13,12): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'GameObject.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\State.h(13,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'GameObject.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\State.h(13,36): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'GameObject.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\GameObject.cpp(64,16): error C2660: 'State::setGameObject': function does not take 1 arguments
+  C:\Users\User\source\repos\SFMLFirstGame\State.h(10,7):
+  see declaration of 'State::setGameObject'
+  C:\Users\User\source\repos\SFMLFirstGame\GameObject.cpp(64,16):
+  while trying to match the argument list '(GameObject *)'
+  
+  Hero.cpp
+C:\Users\User\source\repos\SFMLFirstGame\State.h(10,21): error C2061: syntax error: identifier 'GameObject'
+  (compiling source file 'Hero.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\State.h(13,12): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Hero.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\State.h(13,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Hero.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\State.h(13,36): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Hero.cpp')
+  
+  main.cpp
+C:\Users\User\source\repos\SFMLFirstGame\State.h(10,21): error C2061: syntax error: identifier 'GameObject'
+  (compiling source file 'main.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\State.h(13,12): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'main.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\State.h(13,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\State.h(13,36): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\main.cpp(26,25): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+  State.cpp
+C:\Users\User\source\repos\SFMLFirstGame\GameObject.h(24,20): error C2061: syntax error: identifier 'State'
+  (compiling source file 'State.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\GameObject.h(29,7): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'State.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\GameObject.h(29,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'State.cpp')
+  
+C:\Users\User\source\repos\SFMLFirstGame\GameObject.h(29,33): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'State.cpp')
+  
